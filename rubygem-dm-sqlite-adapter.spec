@@ -4,7 +4,7 @@
 #
 Name     : rubygem-dm-sqlite-adapter
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/dm-sqlite-adapter-1.2.0.gem
 Source0  : https://rubygems.org/downloads/dm-sqlite-adapter-1.2.0.gem
 Summary  : No detailed summary available
@@ -51,32 +51,20 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/dm-sqlite-adapter-1.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Adapters/SqliteAdapter/cdesc-SqliteAdapter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Adapters/SqliteAdapter/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Adapters/SqliteAdapter/normalize_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Adapters/SqliteAdapter/supports_subquery%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Adapters/cdesc-Adapters.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Spec/Adapters/SqliteAdapter/cdesc-SqliteAdapter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Spec/Adapters/SqliteAdapter/connection_uri-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Spec/Adapters/cdesc-Adapters.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/Spec/cdesc-Spec.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/DataMapper/cdesc-DataMapper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/dm-sqlite-adapter-1.2.0/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/VERSION
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/dm-sqlite-adapter.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter/adapter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter/spec/setup.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/spec/adapter_spec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/spec/rcov.opts
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/spec/spec.opts
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/spec/spec_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/tasks/spec.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/tasks/yard.rake
-/usr/lib64/ruby/gems/2.2.0/gems/dm-sqlite-adapter-1.2.0/tasks/yardstick.rake
-/usr/lib64/ruby/gems/2.2.0/specifications/dm-sqlite-adapter-1.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/dm-sqlite-adapter-1.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/VERSION
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/dm-sqlite-adapter.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter/adapter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/lib/dm-sqlite-adapter/spec/setup.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/spec/adapter_spec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/spec/rcov.opts
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/spec/spec.opts
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/spec/spec_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/tasks/spec.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/tasks/yard.rake
+/usr/lib64/ruby/gems/2.3.0/gems/dm-sqlite-adapter-1.2.0/tasks/yardstick.rake
+/usr/lib64/ruby/gems/2.3.0/specifications/dm-sqlite-adapter-1.2.0.gemspec
